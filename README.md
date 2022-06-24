@@ -26,7 +26,8 @@
 - Arquivos de origem Javascript
 - Arquivos de biblioteca e plug-in
 
-###TELAS DO PROJETO
+
+### TELAS DO PROJETO
 
 ![tela1](https://user-images.githubusercontent.com/105887497/175614921-ab554db3-7c85-4753-89d9-56d022986109.png)
 
