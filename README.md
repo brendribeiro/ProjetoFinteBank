@@ -4,7 +4,7 @@
 
 [ACESSAR O SITE](https://brendribeiro.github.io/ProjetoFinteBank/)
 
-**### Características principais:**
+### Características principais:
 
 - Bootstrap v4.3.1
 - HTML5 e CSS3
