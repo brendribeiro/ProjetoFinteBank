@@ -1,4 +1,4 @@
-# PROJETO FITEBANK!
+## PROJETO FITEBANK!
 
 ### **FinteBank** é um site de organização financeira, com todo seu layout _**responsivo e compatível**_ com qualquer dispositivo móvel. È composto por um dashboard em fase inicial que terá ajustes adicionais ligando o **front-end** no **back-end**. 
 
